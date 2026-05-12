@@ -1,6 +1,6 @@
-# 🍕 Pizza Review RAG Chatbot
+# Pizza Review RAG Chatbot
 
-A local AI-powered chatbot that answers questions about pizza restaurants using **Retrieval-Augmented Generation (RAG)**. Ask anything about pizza reviews and get intelligent, context-aware answers — all running locally on your machine.
+A local AI-powered chatbot that answers questions about pizza restaurants using Retrieval-Augmented Generation (RAG). Ask anything about pizza reviews and get intelligent, context-aware answers — all running locally on your machine.
 
 ---
 
@@ -74,16 +74,6 @@ Enter a question (or 'q' to quit): q
 
 ---
 
-## Project Structure
-
-```
-pizza-review-chatbot/
-├── main.py        # Entry point — chatbot loop
-├── vector.py      # Vector store setup and retriever
-└── README.md
-```
-
----
 
 ## Configuration
 
